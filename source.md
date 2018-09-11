@@ -126,7 +126,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) <!--stargazers:AndreHaueisen/flushbar--> - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen)
-- [Wave Progress](https://github.com/studioidan/wave_progress) <!--stargazers:studioidan/wave_progress--> - Wave progress indicator by [Idan Ben Shimon](https://github.com/studioidan)
 
 #### Material Design
 
@@ -166,7 +165,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Navigation
 
 - [Fluro](https://github.com/goposse/fluro) <!--stargazers:goposse/fluro--> - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
-- [Circle Indicator](https://github.com/long1eu/circle_indicator) <!--stargazers:long1eu/circle_indicator--> - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu)
+- [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) <!--stargazers:leocavalcante/page_view_indicator--> - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante)
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Interact with the application's home screen quick actions
 - [Swiper](https://github.com/jzoom/flutter_swiper) <!--stargazers:long1eu/circle_indicator--> - Horizontal, Vertical, Partial swipe with indicator by [Xueliang Ren](https://github.com/jzoom)
 
@@ -285,7 +284,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Scanner
 
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
-- [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) <!--stargazers:acaliaro/flutterZebraEmdk--> - Use Zebra EMDK to access Barcode Scanner API
+- [Fast QR Reader View](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
 
 ### Bluetooth / NFC / Beacon
 
@@ -312,7 +311,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [SpinKit](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 - [Villains](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
-### Game
+### Game Engine
 
 - [Flame](https://github.com/luanpotter/flame) <!--stargazers:luanpotter/flame--> - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) <!--stargazers:spritewidget/spritewidget--> - Toolkit for building complex, high performance animations and 2D games by [Viktor Lidholt](https://github.com/vlidholt)
@@ -338,6 +337,7 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
 - [Trace](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
+- [Taskist](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
 
 ### Games
 
